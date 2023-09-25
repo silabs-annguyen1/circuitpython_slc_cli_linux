@@ -1,0 +1,6 @@
+bin/slc-cli/configuration/.settings
+bin/slc-cli/configuration/org.eclipse.core.runtime
+bin/slc-cli/configuration/org.eclipse.equinox.app
+bin/slc-cli/configuration/org.eclipse.osgi
+__pycache__
+bin/slc-cli/developer/exporter_templates
